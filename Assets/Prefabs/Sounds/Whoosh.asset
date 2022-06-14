@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef663262877eaca45991b41f450e7997, type: 3}
+  m_Name: Whoosh
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: 0bf5eef699c6ec44d859ec3030ad0dd4, type: 3}
+  - {fileID: 8300000, guid: 8fb022b0868c589499e18cf3d13fa0c3, type: 3}
+  - {fileID: 8300000, guid: 645ca784179aebe489b6a9fac632f72a, type: 3}
+  - {fileID: 8300000, guid: 1c41b86fc9a39934da845aa0171fc954, type: 3}
+  - {fileID: 8300000, guid: 9bded0fb3eae3a2469678063624bca65, type: 3}
+  - {fileID: 8300000, guid: 8e1a95ab367c8084da37961e50765eac, type: 3}
+  minPitch: 0.75
+  maxPitch: 1.5
+  volume: 0.5

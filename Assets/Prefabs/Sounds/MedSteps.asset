@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef663262877eaca45991b41f450e7997, type: 3}
+  m_Name: MedSteps
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: 4ef77332aa3281a4a8498488ba750289, type: 3}
+  - {fileID: 8300000, guid: b1e621b9f6517da4e945f2632152f377, type: 3}
+  - {fileID: 8300000, guid: 75833828fd05fe1498252d8092d06b6d, type: 3}
+  - {fileID: 8300000, guid: 0440d0e975fe30d4eb6d71b226ef866d, type: 3}
+  - {fileID: 8300000, guid: 224f57c86b325204fbc5c3808a1db190, type: 3}
+  - {fileID: 8300000, guid: 60f38aaaf8a714a4fad35406d2441a14, type: 3}
+  minPitch: 0.8
+  maxPitch: 2
+  volume: 0.45

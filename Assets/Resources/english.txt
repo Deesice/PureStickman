@@ -1,0 +1,128 @@
+﻿<LANGUAGE>
+  <RESOURCES>
+    <Directory Path="fonts/eng" />
+    <Directory Path="lang/eng" />
+  </RESOURCES>
+  <CATEGORY Name="Items">
+    <Entry Name="Bow1">No additional effect</Entry>
+    <Entry Name="Bow2">Makes headshots easier</Entry>
+    <Entry Name="Bow3">Reduces recoil</Entry>
+    <Entry Name="Bow4">Increases the bowstring tension speed</Entry>
+    <Entry Name="ArrowBase">No additional effect</Entry>
+    <Entry Name="ArrowFire">Zombies wounded in the leg do not run. XP drop from the zombies set on fire as long as they are alive</Entry>
+    <Entry Name="ArrowSpike">Pierces through zombies</Entry>
+    <Entry Name="ArrowBomb">Deals area damage</Entry>
+    <Entry Name="ArmorEmpty">No additional effect</Entry>
+    <Entry Name="Armor1">Increases health</Entry>
+  </CATEGORY>
+  <CATEGORY Name="Goals">
+    <Entry Name="ZombieKilled">Zombies killed: </Entry>
+    <Entry Name="TargetsKnockedDown">Targets hit: </Entry>
+  </CATEGORY>
+  <CATEGORY Name="Characters">
+    <Entry Name="LeeSuhyeok">Lee Su-hyeok</Entry>
+    <Entry Name="NamOnjo">Nam On-jo</Entry>
+    <Entry Name="ChoiNamra">Choi Nam-ra</Entry>
+    <Entry Name="LeeCheongsan">Lee Cheong-san</Entry>
+    <Entry Name="JangHari">Jang Ha-ri</Entry>
+    <Entry Name="ParkMijin">Park Mi-jin</Entry>
+    <Entry Name="LeeNayeon">Lee Na-yeon</Entry>
+    <Entry Name="YoonGwinam">Yoon Gwi-nam</Entry>
+  </CATEGORY>
+  <CATEGORY Name="Menu">
+    <Entry Name="UpdateAvailable_start">Version </Entry>
+    <Entry Name="UpdateAvailable_end"> is available for download</Entry>
+    <Entry Name="UpdateAvailableDesc">The new version of the game is already available on Google Play. Install the update now, so you do not miss the new content and gameplay improvements!</Entry>
+    <Entry Name="Cost_start">Cost: </Entry>
+    <Entry Name="Cost_end"> shards</Entry>
+    <Entry Name="Buy">Unlock</Entry>
+    <Entry Name="AdForLife">One more life</Entry>
+    <Entry Name="Reload">Try again</Entry>
+    <Entry Name="CharacterLocked">The character will be available after completing the mission</Entry>
+    <Entry Name="Reward">Reward:</Entry>
+    <Entry Name="Play">Play!</Entry>
+    <Entry Name="QuestLocked_start">Available on reaching </Entry>
+    <Entry Name="QuestLocked_end"> level</Entry>
+    <Entry Name="AdForXp">Double XP</Entry>
+    <Entry Name="ToMenu">To menu</Entry>
+    <Entry Name="ToMap">To map</Entry>
+    <Entry Name="ToCharacter">To character customization</Entry>
+    <Entry Name="Difficulty">Difficulty:</Entry>
+    <Entry Name="QuestLocked_wip">Coming soon</Entry>
+    <Entry Name="Select">Select</Entry>
+    <Entry Name="Enhance">Enhance</Entry>
+    <Entry Name="Equipped">Selected</Entry>
+    <Entry Name="Arrow">Arrow</Entry>
+    <Entry Name="Bow">Bow</Entry>
+    <Entry Name="Armor">Armor</Entry>
+    <Entry Name="Hero">Hero</Entry>
+  </CATEGORY>
+  <CATEGORY Name="Gameplay">
+    <Entry Name="NewItem">New item</Entry>
+    <Entry Name="ExtraLife">Extra life</Entry>
+    <Entry Name="LevelUp">Level up</Entry>
+    <Entry Name="LevelUp_start">You have reached </Entry>
+    <Entry Name="LevelUp_end"> level</Entry>
+    <Entry Name="Death">Game over</Entry>
+    <Entry Name="KillCount">Zombies killed: </Entry>
+    <Entry Name="SurviveTimeCount">Time to survive: </Entry>
+    <Entry Name="XpCount">XP: </Entry>
+    <Entry Name="MissionComplete">Mission complete</Entry>
+    <Entry Name="GrindingLevel">Quality: </Entry>
+  </CATEGORY>
+  <CATEGORY Name="Districts">
+    <Entry Name="school">School porch</Entry>
+    <Entry Name="butts">Shooting range</Entry>
+    <Entry Name="dining">Dining hall</Entry>
+    <Entry Name="chase">Corridors</Entry>
+    <Entry Name="football">Soccer field</Entry>
+    <Entry Name="gym">Gym</Entry>
+    <Entry Name="DistrictNotEnoughLevel">Level: </Entry>
+  </CATEGORY>
+  <CATEGORY Name="Missions">
+    <Entry Name="0">Combat</Entry>
+    <Entry Name="0_desc">Kill 15 zombies</Entry>
+    <Entry Name="1">Entering</Entry>
+    <Entry Name="1_desc">Sneak into a safe place</Entry>
+    <Entry Name="2">Escort</Entry>
+    <Entry Name="2_desc">Help Lee Cheong-san and Nam On-jo get to safety place</Entry>
+    <Entry Name="3">Chase</Entry>
+    <Entry Name="3_desc">Get rid of Yoon Gwi-nam's chase</Entry>
+  </CATEGORY>
+  <CATEGORY Name="Compass">
+    <Entry Name="Attack">Attack</Entry>
+    <Entry Name="StandBy">Stand by</Entry>
+    <Entry Name="Defend">Defend</Entry>
+    <Entry Name="Run">Run</Entry>
+  </CATEGORY>
+  <CATEGORY Name="Tutorial">
+    <Entry Name="Menu_0_0">Welcome to the game All Of Us Are Dead. Follow the hints that will help you understand the game and its features.
+
+Click the button to start the game</Entry>
+    <Entry Name="Menu_1_0">Select an area on the map to navigate to and select a mission</Entry>
+    <Entry Name="Menu_2_0">In each area you'll find a variety of missions with their own unique tasks and rewards.
+
+Click on the marker to reveal a detailed mission description</Entry>
+    <Entry Name="Menu_3_0">Click the button to start the game</Entry>
+    <Entry Name="Menu_3_1">Description of the mission you have to complete</Entry>
+    <Entry Name="Menu_3_2">The rewards you'll receive for completing the mission</Entry>
+    <Entry Name="Menu_4_0">The game world is divided into areas, each with its own level of difficulty</Entry>
+    <Entry Name="Menu_4_1">At the moment the Shooting range is closed for you because the area has a level 2</Entry>
+    <Entry Name="Menu_4_2">Your current level is shown here. Increase it by completing missions and defeating zombies</Entry>
+    <Entry Name="Menu_5_0">The markers colored gray indicate missions you've completed.
+
+You can replay them at any time to save up money and experience by defeating zombies.
+
+Keep in mind that the reward for replaying missions is less than for the first one</Entry>
+    <Entry Name="Menu_5_1">The color of the marker indicates the type of mission</Entry>
+    <Entry Name="Menu_6_0">The amount of money of each currency is displayed here</Entry>
+    <Entry Name="Menu_6_1">Go to the armor menu to buy a bulletproof vest</Entry>
+    <Entry Name="Menu_6_2">You have saved up for your first outfit upgrade!</Entry>
+    <Entry Name="Menu_7_0">Select an item to reveal its detailed description</Entry>
+    <Entry Name="Menu_8_0">Click the button to purchase an item and have it automatically equipped</Entry>
+    <Entry Name="Gameplay_0_0">Move your finger to the left side of the screen to walk</Entry>
+    <Entry Name="Gameplay_1_0">Move your finger to the right side of the screen to aim.
+
+Release your finger to shoot</Entry>
+  </CATEGORY>
+</LANGUAGE>

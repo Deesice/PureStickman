@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef663262877eaca45991b41f450e7997, type: 3}
+  m_Name: LowSteps
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: 09b26d726c683d54aabba8addaf4d2f5, type: 3}
+  - {fileID: 8300000, guid: 53f0b86d07124ef46a0b26daef0c0c48, type: 3}
+  - {fileID: 8300000, guid: 1bba35db3edcd244eb692dd55a0cf82d, type: 3}
+  - {fileID: 8300000, guid: 9233c5f27d027d14fa8db4907e261605, type: 3}
+  - {fileID: 8300000, guid: 2f04e6a558a158e498e58a7ea04beec5, type: 3}
+  - {fileID: 8300000, guid: 64f6d6b44ac91bc4fa86351955b28374, type: 3}
+  - {fileID: 8300000, guid: 918255c23fcef3a42a75d5246e133264, type: 3}
+  - {fileID: 8300000, guid: 1cd1bda1bdad2984780a76ac7e4b04ff, type: 3}
+  minPitch: 0.8
+  maxPitch: 2
+  volume: 0.45

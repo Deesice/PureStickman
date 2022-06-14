@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef663262877eaca45991b41f450e7997, type: 3}
+  m_Name: ArrowMeatHit
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: ce2258122089bbf4280dc09a4178a887, type: 3}
+  - {fileID: 8300000, guid: dc8293a5e832ee548ae3412c5a00fffd, type: 3}
+  - {fileID: 8300000, guid: 8a42ad7b00ef32d479e5698f3157d3df, type: 3}
+  - {fileID: 8300000, guid: 405bbb767ebb3ef4980cbdc4f9b36e81, type: 3}
+  - {fileID: 8300000, guid: c9e0b4417d93a6f49ab5ea13134f171b, type: 3}
+  minPitch: 0.7
+  maxPitch: 0.95

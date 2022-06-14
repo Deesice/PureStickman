@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef663262877eaca45991b41f450e7997, type: 3}
+  m_Name: HighSteps
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: 22d4a90cc497d8c47917128896a0678b, type: 3}
+  - {fileID: 8300000, guid: 364b09a5630295e4fa32f6b2f8c1ce75, type: 3}
+  - {fileID: 8300000, guid: 6b5c80f1e9a24b9408a27cfc88f3d67f, type: 3}
+  - {fileID: 8300000, guid: 96d6ca5c77893f446bb5d9d10b095114, type: 3}
+  - {fileID: 8300000, guid: e4c472ce104bc2d41956df39179f665c, type: 3}
+  minPitch: 0.8
+  maxPitch: 2
+  volume: 0.45

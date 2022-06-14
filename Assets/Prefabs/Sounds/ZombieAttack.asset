@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef663262877eaca45991b41f450e7997, type: 3}
+  m_Name: ZombieAttack
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: 133890f568ca9a14c897377fa2a9363e, type: 3}
+  - {fileID: 8300000, guid: 78b5c3004e440a048b79179188f23123, type: 3}
+  - {fileID: 8300000, guid: cfcf4e5c9d33be74092b333de03b5d99, type: 3}
+  minPitch: 1
+  maxPitch: 1
+  volume: 0.8

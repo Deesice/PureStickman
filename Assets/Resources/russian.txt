@@ -1,0 +1,128 @@
+﻿<LANGUAGE>
+  <RESOURCES>
+    <Directory Path="fonts/rus" />
+    <Directory Path="lang/rus" />
+  </RESOURCES>
+  <CATEGORY Name="Items">
+    <Entry Name="Bow1">Без дополнительного эффекта</Entry>
+    <Entry Name="Bow2">Облегчает попадания в голову</Entry>
+    <Entry Name="Bow3">Уменьшает отдачу</Entry>
+    <Entry Name="Bow4">Увеличивает скорость натяжения тетивы</Entry>
+    <Entry Name="ArrowBase">Без дополнительного эффекта</Entry>
+    <Entry Name="ArrowFire">Раненные в ногу зомби не бегают. С подожжённых зомби регулярно капает опыт, пока они живы</Entry>
+    <Entry Name="ArrowSpike">Пробивает зомби насквозь</Entry>
+    <Entry Name="ArrowBomb">Наносит урон по площади</Entry>
+    <Entry Name="ArmorEmpty">Без дополнительного эффекта</Entry>
+    <Entry Name="Armor1">Увеличивает здоровье</Entry>
+  </CATEGORY>
+  <CATEGORY Name="Goals">
+    <Entry Name="ZombieKilled">Зомби убито: </Entry>
+    <Entry Name="TargetsKnockedDown">Мишеней поражено: </Entry>
+  </CATEGORY>
+  <CATEGORY Name="Characters">
+    <Entry Name="LeeSuhyeok">Ли Сухёк</Entry>
+    <Entry Name="NamOnjo">Нам Ончо</Entry>
+    <Entry Name="ChoiNamra">Чой Намра</Entry>
+    <Entry Name="LeeCheongsan">Ли Чхонсан</Entry>
+    <Entry Name="JangHari">Янг Хари</Entry>
+    <Entry Name="ParkMijin">Пак Миджин</Entry>
+    <Entry Name="LeeNayeon">Ли Наён</Entry>
+    <Entry Name="YoonGwinam">Юн Гвинам</Entry>
+  </CATEGORY>
+  <CATEGORY Name="Menu">
+    <Entry Name="UpdateAvailable_start">Версия </Entry>
+    <Entry Name="UpdateAvailable_end"> доступна для скачивания</Entry>
+    <Entry Name="UpdateAvailableDesc">Новая версия игры уже доступна в Google Play. Установи обновление прямо сейчас, чтобы не пропустить новый контент и улучшения игрового процесса!</Entry>
+    <Entry Name="Cost_start">Стоимость: </Entry>
+    <Entry Name="Cost_end"> черепков</Entry>
+    <Entry Name="Buy">Открыть</Entry>
+    <Entry Name="AdForLife">Дополнительная жизнь</Entry>
+    <Entry Name="Reload">Заново</Entry>
+    <Entry Name="CharacterLocked">Персонаж будет доступен после прохождения миссии</Entry>
+    <Entry Name="Reward">Награда:</Entry>
+    <Entry Name="Play">В бой!</Entry>
+    <Entry Name="QuestLocked_start">Доступно по достижении </Entry>
+    <Entry Name="QuestLocked_end"> уровня</Entry>
+    <Entry Name="AdForXp">Удвоить опыт</Entry>
+    <Entry Name="ToMenu">В меню</Entry>
+    <Entry Name="ToMap">На карту</Entry>
+    <Entry Name="ToCharacter">К выбору персонажа</Entry>
+    <Entry Name="Difficulty">Сложность:</Entry>
+    <Entry Name="QuestLocked_wip">Ожидайте в будущих обновлениях</Entry>
+    <Entry Name="Select">Выбрать</Entry>
+    <Entry Name="Enhance">Улучшить</Entry>
+    <Entry Name="Equipped">Выбрано</Entry>
+    <Entry Name="Arrow">Стрела</Entry>
+    <Entry Name="Bow">Лук</Entry>
+    <Entry Name="Armor">Броня</Entry>
+    <Entry Name="Hero">Герой</Entry>
+  </CATEGORY>
+  <CATEGORY Name="Gameplay">
+    <Entry Name="NewItem">Новый предмет</Entry>
+    <Entry Name="ExtraLife">Дополнительная жизнь</Entry>
+    <Entry Name="LevelUp">Новый уровень</Entry>
+    <Entry Name="LevelUp_start">Ты достиг </Entry>
+    <Entry Name="LevelUp_end"> уровня</Entry>
+    <Entry Name="Death">Игра окончена</Entry>
+    <Entry Name="KillCount">Убито зомби: </Entry>
+    <Entry Name="SurviveTimeCount">Время выживания: </Entry>
+    <Entry Name="XpCount">Получено опыта: </Entry>
+    <Entry Name="MissionComplete">Задание выполнено</Entry>
+    <Entry Name="GrindingLevel">Качество: </Entry>
+  </CATEGORY>
+  <CATEGORY Name="Districts">
+    <Entry Name="school">Крыльцо школы</Entry>
+    <Entry Name="butts">Стрельбище</Entry>
+    <Entry Name="dining">Столовая</Entry>
+    <Entry Name="chase">Коридоры</Entry>
+    <Entry Name="football">Футбольное поле</Entry>
+    <Entry Name="gym">Спортзал</Entry>
+    <Entry Name="DistrictNotEnoughLevel">Уровень: </Entry>
+  </CATEGORY>
+  <CATEGORY Name="Missions">
+    <Entry Name="0">Бойня</Entry>
+    <Entry Name="0_desc">Убей 15 зомби</Entry>
+    <Entry Name="1">Проникновение</Entry>
+    <Entry Name="1_desc">Проникни в безопасное место</Entry>
+    <Entry Name="2">Сопровождение</Entry>
+    <Entry Name="2_desc">Помоги Ли Чхонсану и Нам Ончо добраться до безопасного места</Entry>
+    <Entry Name="3">Погоня</Entry>
+    <Entry Name="3_desc">Избавься от преследования Гвинама</Entry>
+  </CATEGORY>
+  <CATEGORY Name="Compass">
+    <Entry Name="Attack">Атакуй</Entry>
+    <Entry Name="StandBy">Стой рядом</Entry>
+    <Entry Name="Defend">Защищай</Entry>
+    <Entry Name="Run">Беги</Entry>
+  </CATEGORY>
+  <CATEGORY Name="Tutorial">
+    <Entry Name="Menu_0_0">Добро пожаловать в игру All Of Us Are Dead. Следуй за подсказками, которые помогут тебе разобраться в игре и ее особенностях.
+
+Нажми на кнопку, чтобы начать игру</Entry>
+    <Entry Name="Menu_1_0">Выбери район на карте, чтобы переместиться к нему и выбрать миссию</Entry>
+    <Entry Name="Menu_2_0">В каждом районе тебя ждёт множество миссий со своими уникальными заданиями и наградами.
+
+Нажми на маркер, чтобы открыть подробное описание миссии</Entry>
+    <Entry Name="Menu_3_0">Нажми на кнопку, чтобы начать игру</Entry>
+    <Entry Name="Menu_3_1">Описание задачи, которую тебе предстоит выполнить</Entry>
+    <Entry Name="Menu_3_2">Награды, которые ты получишь за выполнение миссии</Entry>
+    <Entry Name="Menu_4_0">Игровой мир поделен на районы, каждый из которых имеет свой уровень сложности</Entry>
+    <Entry Name="Menu_4_1">На данный момент Стрельбище для тебя закрыто, так как район имеет уровень 2</Entry>
+    <Entry Name="Menu_4_2">Твой текущий уровень указан тут. Повышай его, выполняя задания и побеждая зомби</Entry>
+    <Entry Name="Menu_5_0">Маркеры, окрашенные в серый цвет, обозначают пройденные миссии.
+
+Ты можешь проходить их повторно в любое время, чтобы подкопить денег и нафармить опыта, побеждая зомби.
+
+Учти, что награда за повторные прохождения меньше, чем за первое</Entry>
+    <Entry Name="Menu_5_1">Цвет маркера обозначает тип миссии</Entry>
+    <Entry Name="Menu_6_0">Количество денег каждой из валют отображается здесь</Entry>
+    <Entry Name="Menu_6_1">Перейди в меню брони, чтобы прикупить себе бронежилет</Entry>
+    <Entry Name="Menu_6_2">Ты накопил на первый апгрейд экипировки!</Entry>
+    <Entry Name="Menu_7_0">Выбери предмет, чтобы раскрыть его подробное описание</Entry>
+    <Entry Name="Menu_8_0">Нажми на кнопку, чтобы приобрести предмет и автоматически экипировать его</Entry>
+    <Entry Name="Gameplay_0_0">Перемещай палец по левой стороне экрана, чтобы ходить</Entry>
+    <Entry Name="Gameplay_1_0">Перемещай палец по правой стороне экрана, чтобы прицелиться.
+
+Отпусти палец, чтобы выстрелить</Entry>
+  </CATEGORY>
+</LANGUAGE>

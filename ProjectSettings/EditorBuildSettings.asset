@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Menu.unity
+    guid: ae0ef169eb3d8d54b86a38142c2bd675
+  - enabled: 0
+    path: Assets/Scenes/School.unity
+    guid: e44fd5fcce5b44e4280f003798a7a240
+  - enabled: 0
+    path: Assets/Scenes/Butts.unity
+    guid: 1a3bfae01bb2a40448fa738cfa615304
+  - enabled: 0
+    path: Assets/Scenes/Dining.unity
+    guid: 9df46fe96ad74d64d880f42b4ea40eec
+  - enabled: 0
+    path: Assets/Scenes/Chase.unity
+    guid: 3365a2143f221d347aee5f519a9f7531
+  - enabled: 0
+    path: Assets/Scenes/Football.unity
+    guid: 89aed482d97f5da4094762adc1b43c18
+  - enabled: 0
+    path: Assets/Scenes/Tutorial.unity
+    guid: c1ff9de53c03df344a772afe1cc70aab
+  - enabled: 1
+    path: Assets/Scenes/Pure Stickmans.unity
+    guid: c252baac511f0a44a81fb03ad2e83eec
+  m_configObjects: {}

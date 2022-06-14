@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef663262877eaca45991b41f450e7997, type: 3}
+  m_Name: ZombieDeath
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: 58f499c96a6a959409a9574c1940cd80, type: 3}
+  - {fileID: 8300000, guid: 70d28ab2e1e6abe40bdaf99c270e5402, type: 3}
+  - {fileID: 8300000, guid: 6baf6bde733760041a9087f46eab4f28, type: 3}
+  - {fileID: 8300000, guid: 8e46820f702ab944ba67123746d4f2ac, type: 3}
+  minPitch: 1
+  maxPitch: 1
+  volume: 0.4

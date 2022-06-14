@@ -1,0 +1,128 @@
+﻿<LANGUAGE>
+  <RESOURCES>
+    <Directory Path="fonts/eng" />
+    <Directory Path="lang/eng" />
+  </RESOURCES>
+  <CATEGORY Name="Items">
+    <Entry Name="Bow1">Ningún efecto adicional</Entry>
+    <Entry Name="Bow2">Facilita los disparos a la cabeza</Entry>
+    <Entry Name="Bow3">Reduce el retroceso</Entry>
+    <Entry Name="Bow4">Aumenta la velocidad de tensión de la cuerda del arco</Entry>
+    <Entry Name="ArrowBase">Ningún efecto adicional</Entry>
+    <Entry Name="ArrowFire">Los zombis heridos en la pierna no corren. La XP cae de los zombis incendiados mientras estén vivos</Entry>
+    <Entry Name="ArrowSpike">Atraviesa a los zombis</Entry>
+    <Entry Name="ArrowBomb">Inflige daño de área</Entry>
+    <Entry Name="ArmorEmpty">Ningún efecto adicional</Entry>
+    <Entry Name="Armor1">Aumenta la salud</Entry>
+  </CATEGORY>
+  <CATEGORY Name="Goals">
+    <Entry Name="ZombieKilled">Zombis muertos: </Entry>
+    <Entry Name="TargetsKnockedDown">Objetivos alcanzados: </Entry>
+  </CATEGORY>
+  <CATEGORY Name="Characters">
+    <Entry Name="LeeSuhyeok">Lee Su-hyeok</Entry>
+    <Entry Name="NamOnjo">Nam On-jo</Entry>
+    <Entry Name="ChoiNamra">Choi Nam-ra</Entry>
+    <Entry Name="LeeCheongsan">Lee Cheong-san</Entry>
+    <Entry Name="JangHari">Jang Ha-ri</Entry>
+    <Entry Name="ParkMijin">Park Mi-jin</Entry>
+    <Entry Name="LeeNayeon">Lee Na-yeon</Entry>
+    <Entry Name="YoonGwinam">Yoon Gwi-nam</Entry>
+  </CATEGORY>
+  <CATEGORY Name="Menu">
+    <Entry Name="UpdateAvailable_start">La versión </Entry>
+    <Entry Name="UpdateAvailable_end"> está disponible para su descarga</Entry>
+    <Entry Name="UpdateAvailableDesc">La nueva versión del juego ya está disponible en Google Play. Instala ya la actualización para no perderte los nuevos contenidos y las mejoras en la jugabilidad!</Entry>
+    <Entry Name="Cost_start">Costo: </Entry>
+    <Entry Name="Cost_end"> fragmentos</Entry>
+    <Entry Name="Buy">Desbloquear</Entry>
+    <Entry Name="AdForLife">Una vida más</Entry>
+    <Entry Name="Reload">Inténtalo de nuevo</Entry>
+    <Entry Name="CharacterLocked">The character will be available after completing the mission</Entry>
+    <Entry Name="Reward">Recompensa:</Entry>
+    <Entry Name="Play">Jugar!</Entry>
+    <Entry Name="QuestLocked_start">Disponible al llegar al nivel </Entry>
+    <Entry Name="QuestLocked_end"></Entry>
+    <Entry Name="AdForXp">Doble XP</Entry>
+    <Entry Name="ToMenu">Al menú</Entry>
+    <Entry Name="ToMap">Para el mapa</Entry>
+    <Entry Name="ToCharacter">A la personalización de los personajes</Entry>
+    <Entry Name="Difficulty">Dificultad:</Entry>
+    <Entry Name="QuestLocked_wip">Próximamente</Entry>
+    <Entry Name="Select">Seleccione</Entry>
+    <Entry Name="Enhance">Mejorar</Entry>
+    <Entry Name="Equipped">Seleccionado</Entry>
+    <Entry Name="Arrow">Flecha</Entry>
+    <Entry Name="Bow">Arco</Entry>
+    <Entry Name="Armor">Armor</Entry>
+    <Entry Name="Hero">Héroe</Entry>
+  </CATEGORY>
+  <CATEGORY Name="Gameplay">
+    <Entry Name="NewItem">Nuevo artículo</Entry>
+    <Entry Name="ExtraLife">Vida extra</Entry>
+    <Entry Name="LevelUp">Subir de nivel</Entry>
+    <Entry Name="LevelUp_start">Has alcanzado el nivel </Entry>
+    <Entry Name="LevelUp_end"></Entry>
+    <Entry Name="Death">Se acabó el juego</Entry>
+    <Entry Name="KillCount">Zombis muertos: </Entry>
+    <Entry Name="SurviveTimeCount">Hora de sobrevivir: </Entry>
+    <Entry Name="XpCount">XP: </Entry>
+    <Entry Name="MissionComplete">Misión completada</Entry>
+    <Entry Name="GrindingLevel">Calidad: </Entry>
+  </CATEGORY>
+  <CATEGORY Name="Districts">
+    <Entry Name="school">Porche de la escuela</Entry>
+    <Entry Name="butts">Campo de tiro</Entry>
+    <Entry Name="dining">Dining hall</Entry>
+    <Entry Name="chase">Comedor</Entry>
+    <Entry Name="football">Campo de fútbol</Entry>
+    <Entry Name="gym">Gimnasio</Entry>
+    <Entry Name="DistrictNotEnoughLevel">Nivel: </Entry>
+  </CATEGORY>
+  <CATEGORY Name="Missions">
+    <Entry Name="0">Combate</Entry>
+    <Entry Name="0_desc">Mata a 15 zombis</Entry>
+    <Entry Name="1">Entrar en</Entry>
+    <Entry Name="1_desc">Colarse en un lugar seguro</Entry>
+    <Entry Name="2">Escolta</Entry>
+    <Entry Name="2_desc">Ayuda a Lee Cheong-san y Nam On-jo a llegar a un lugar seguro</Entry>
+    <Entry Name="3">Chase</Entry>
+    <Entry Name="3_desc">Deshazte de la persecución de Yoon Gwi-nam</Entry>
+  </CATEGORY>
+  <CATEGORY Name="Compass">
+    <Entry Name="Attack">Ataque</Entry>
+    <Entry Name="StandBy">Espera</Entry>
+    <Entry Name="Defend">Defender</Entry>
+    <Entry Name="Run">Ejecutar</Entry>
+  </CATEGORY>
+  <CATEGORY Name="Tutorial">
+    <Entry Name="Menu_0_0">Bienvenido al juego All Of Us Are Dead. Sigue las pistas que te ayudarán a entender el juego y sus características.
+
+Haz clic en el botón para iniciar el juego</Entry>
+    <Entry Name="Menu_1_0">Selecciona un área en el mapa para navegar y seleccionar una misión</Entry>
+    <Entry Name="Menu_2_0">En cada zona encontrarás una variedad de misiones con sus propias tareas y recompensas.
+
+Haz clic en el marcador para revelar una descripción detallada de la misión</Entry>
+    <Entry Name="Menu_3_0">Haz clic en el botón para iniciar el juego</Entry>
+    <Entry Name="Menu_3_1">Descripción de la misión que tienes que completar</Entry>
+    <Entry Name="Menu_3_2">Las recompensas que recibirás por completar la misión</Entry>
+    <Entry Name="Menu_4_0">El mundo del juego está dividido en áreas, cada una con su propio nivel de dificultad</Entry>
+    <Entry Name="Menu_4_1">En este momento el Campo de tiro está cerrado para ti porque la zona tiene un nivel 2</Entry>
+    <Entry Name="Menu_4_2">Tu nivel actual se muestra aquí. Auméntalo completando misiones y derrotando zombis</Entry>
+    <Entry Name="Menu_5_0">Los marcadores de color gris indican las misiones que has completado.
+
+Puedes repetirlas en cualquier momento para ahorrar dinero y experiencia derrotando zombis.
+
+Ten en cuenta que la recompensa por repetir las misiones es menor que por la primera</Entry>
+    <Entry Name="Menu_5_1">El color del marcador indica el tipo de misión</Entry>
+    <Entry Name="Menu_6_0">La cantidad de dinero de cada moneda se muestra aquí</Entry>
+    <Entry Name="Menu_6_1">Ir al menú de armaduras para comprar un chaleco antibalas</Entry>
+    <Entry Name="Menu_6_2">Has ahorrado para tu primera mejora de equipo!</Entry>
+    <Entry Name="Menu_7_0">Selecciona un objeto para ver su descripción detallada</Entry>
+    <Entry Name="Menu_8_0">Haz clic en el botón para comprar un artículo y equiparlo automáticamente</Entry>
+    <Entry Name="Gameplay_0_0">Mueve el dedo hacia el lado izquierdo de la pantalla para caminar</Entry>
+    <Entry Name="Gameplay_1_0">Mueve el dedo hacia el lado derecho de la pantalla para apuntar.
+
+Suelta el dedo para disparar</Entry>
+  </CATEGORY>
+</LANGUAGE>

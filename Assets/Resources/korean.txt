@@ -1,0 +1,128 @@
+﻿<LANGUAGE>
+  <RESOURCES>
+    <Directory Path="fonts/eng" />
+    <Directory Path="lang/eng" />
+  </RESOURCES>
+  <CATEGORY Name="Items">
+    <Entry Name="Bow1">추가 효과 없음</Entry>
+    <Entry Name="Bow2">헤드샷을 더 쉽게 만듭니다</Entry>
+    <Entry Name="Bow3">반동 감소</Entry>
+    <Entry Name="Bow4">현의 장력 속도를 증가시킵니다</Entry>
+    <Entry Name="ArrowBase">추가 효과 없음</Entry>
+    <Entry Name="ArrowFire">다리에 부상당한 좀비는 뛰지 않습니다. 살아 있는 동안 불에 탄 좀비에게서 XP가 떨어집니다</Entry>
+    <Entry Name="ArrowSpike">좀비를 뚫고</Entry>
+    <Entry Name="ArrowBomb">범위 피해를 입힙니다</Entry>
+    <Entry Name="ArmorEmpty">추가 효과 없음</Entry>
+    <Entry Name="Armor1">건강 증가</Entry>
+  </CATEGORY>
+  <CATEGORY Name="Goals">
+    <Entry Name="ZombieKilled">좀비 처치: </Entry>
+    <Entry Name="TargetsKnockedDown">적중 대상: </Entry>
+  </CATEGORY>
+  <CATEGORY Name="Characters">
+    <Entry Name="LeeSuhyeok">이수혁</Entry>
+    <Entry Name="NamOnjo">남온조</Entry>
+    <Entry Name="ChoiNamra">최남라</Entry>
+    <Entry Name="LeeCheongsan">이청산</Entry>
+    <Entry Name="JangHari">장하리</Entry>
+    <Entry Name="ParkMijin">박미진</Entry>
+    <Entry Name="LeeNayeon">이나연</Entry>
+    <Entry Name="YoonGwinam">윤귀남</Entry>
+  </CATEGORY>
+  <CATEGORY Name="Menu">
+    <Entry Name="UpdateAvailable_start">버전 </Entry>
+    <Entry Name="UpdateAvailable_end"> 다운로드 가능</Entry>
+    <Entry Name="UpdateAvailableDesc">게임의 새 버전은 이미 Google Play에서 사용할 수 있습니다. 새로운 콘텐츠와 게임 플레이 개선 사항을 놓치지 않도록 지금 업데이트를 설치하세요!</Entry>
+    <Entry Name="Cost_start">비용: 파편 </Entry>
+    <Entry Name="Cost_end">개</Entry>
+    <Entry Name="Buy">터놓다</Entry>
+    <Entry Name="AdForLife">한 번 더 인생</Entry>
+    <Entry Name="Reload">다시 시도하십시오</Entry>
+    <Entry Name="CharacterLocked">캐릭터는 임무 완료 후 사용할 수 있습니다</Entry>
+    <Entry Name="Reward">보상:</Entry>
+    <Entry Name="Play">놀다!</Entry>
+    <Entry Name="QuestLocked_start"></Entry>
+    <Entry Name="QuestLocked_end">레벨 달성 시 사용 가능</Entry>
+    <Entry Name="AdForXp">두 배 XP</Entry>
+    <Entry Name="ToMenu">메뉴로</Entry>
+    <Entry Name="ToMap">매핑하려면</Entry>
+    <Entry Name="ToCharacter">캐릭터 커스터마이징으로</Entry>
+    <Entry Name="Difficulty">어려움:</Entry>
+    <Entry Name="QuestLocked_wip">출시 예정</Entry>
+    <Entry Name="Select">고르다</Entry>
+    <Entry Name="Enhance">향상시키다</Entry>
+    <Entry Name="Equipped">선택된</Entry>
+    <Entry Name="Arrow">화살</Entry>
+    <Entry Name="Bow">절하다</Entry>
+    <Entry Name="Armor">갑옷</Entry>
+    <Entry Name="Hero">영웅</Entry>
+  </CATEGORY>
+  <CATEGORY Name="Gameplay">
+    <Entry Name="NewItem">새로운 물품</Entry>
+    <Entry Name="ExtraLife">추가 수명</Entry>
+    <Entry Name="LevelUp">레벨 업</Entry>
+    <Entry Name="LevelUp_start"></Entry>
+    <Entry Name="LevelUp_end">레벨에 도달했습니다</Entry>
+    <Entry Name="Death">게임 끝</Entry>
+    <Entry Name="KillCount">좀비 처치: </Entry>
+    <Entry Name="SurviveTimeCount">생존 시간: </Entry>
+    <Entry Name="XpCount">XP: </Entry>
+    <Entry Name="MissionComplete">미션 완료</Entry>
+    <Entry Name="GrindingLevel">품질: </Entry>
+  </CATEGORY>
+  <CATEGORY Name="Districts">
+    <Entry Name="school">학교 현관</Entry>
+    <Entry Name="butts">발사 범위</Entry>
+    <Entry Name="dining">식당</Entry>
+    <Entry Name="chase">복도</Entry>
+    <Entry Name="football">축구장</Entry>
+    <Entry Name="gym">체육관</Entry>
+    <Entry Name="DistrictNotEnoughLevel">수준: </Entry>
+  </CATEGORY>
+  <CATEGORY Name="Missions">
+    <Entry Name="0">전투</Entry>
+    <Entry Name="0_desc">15명의 좀비를 죽이십시오</Entry>
+    <Entry Name="1">입장</Entry>
+    <Entry Name="1_desc">안전한 곳으로 잠입</Entry>
+    <Entry Name="2">호위</Entry>
+    <Entry Name="2_desc">이청산과 남온조가 안전한 곳으로 이동할 수 있도록 도와주세요</Entry>
+    <Entry Name="3">뒤쫓다다</Entry>
+    <Entry Name="3_desc">윤귀남의 추격전을 없애라</Entry>
+  </CATEGORY>
+  <CATEGORY Name="Compass">
+    <Entry Name="Attack">공격</Entry>
+    <Entry Name="StandBy">대기</Entry>
+    <Entry Name="Defend">지키다</Entry>
+    <Entry Name="Run">운영</Entry>
+  </CATEGORY>
+  <CATEGORY Name="Tutorial">
+    <Entry Name="Menu_0_0">All Of Us Are Dead 게임에 오신 것을 환영합니다. 게임과 그 기능을 이해하는 데 도움이 되는 힌트를 따르세요.
+
+버튼을 클릭하여 게임을 시작하세요</Entry>
+    <Entry Name="Menu_1_0">지도에서 탐색할 지역을 선택하고 임무를 선택합니다</Entry>
+    <Entry Name="Menu_2_0">각 지역에서 고유한 작업과 보상이 있는 다양한 임무를 찾을 수 있습니다.
+
+마커를 클릭하면 자세한 임무 설명이 표시됩니다</Entry>
+    <Entry Name="Menu_3_0">버튼을 클릭하여 게임을 시작하세요</Entry>
+    <Entry Name="Menu_3_1">완료해야 하는 임무에 대한 설명</Entry>
+    <Entry Name="Menu_3_2">미션 완료 시 받을 수 있는 보상</Entry>
+    <Entry Name="Menu_4_0">게임 세계는 각각 고유한 난이도를 가진 영역으로 나뉩니다</Entry>
+    <Entry Name="Menu_4_1">현재 사격장은 레벨 2이기 때문에 폐쇄되었습니다</Entry>
+    <Entry Name="Menu_4_2">현재 레벨이 여기에 표시됩니다. 임무를 완료하고 좀비를 물리쳐 증가</Entry>
+    <Entry Name="Menu_5_0">회색으로 표시된 마커는 완료한 임무를 나타냅니다.
+
+언제든지 다시 플레이하여 좀비를 물리치고 돈과 경험치를 절약할 수 있습니다.
+
+임무를 다시 플레이하는 것에 대한 보상은 첫 번째 임무보다 적습니다</Entry>
+    <Entry Name="Menu_5_1">마커의 색상은 임무 유형을 나타냅니다</Entry>
+    <Entry Name="Menu_6_0">각 통화의 금액이 여기에 표시됩니다</Entry>
+    <Entry Name="Menu_6_1">방어구 메뉴로 이동하여 방탄조끼를 구매하세요</Entry>
+    <Entry Name="Menu_6_2">첫 번째 의상 업그레이드를 위해 저장했습니다!</Entry>
+    <Entry Name="Menu_7_0">항목을 선택하여 자세한 설명을 표시합니다</Entry>
+    <Entry Name="Menu_8_0">버튼을 클릭하면 아이템을 구매하고 자동으로 장착할 수 있습니다</Entry>
+    <Entry Name="Gameplay_0_0">손가락을 화면 왼쪽으로 이동하여 걸으세요</Entry>
+    <Entry Name="Gameplay_1_0">조준하려면 화면의 오른쪽으로 손가락을 이동합니다.
+
+촬영하려면 손가락을 떼십시오</Entry>
+  </CATEGORY>
+</LANGUAGE>

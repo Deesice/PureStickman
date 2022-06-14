@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef663262877eaca45991b41f450e7997, type: 3}
+  m_Name: ArrowLaunch
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: a19d2ac96ce083448a834563e7ff57c1, type: 3}
+  - {fileID: 8300000, guid: b6234eb7bad7629409311ff36e4e2cf4, type: 3}
+  minPitch: 0.75
+  maxPitch: 1.25

@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b7f3d4543cdde446915c43a424f4614, type: 3}
+  m_Name: Armor1
+  m_EditorClassIdentifier: 
+  SubType: 2
+  descCategoryName: Items
+  descEntryName: Armor1
+  UnlockImage: {fileID: 21300000, guid: cdfdff8472466a248b394f2acf58e84f, type: 3}
+  LockImage: {fileID: 21300000, guid: 77345dc01794c0341bce9f9cfb350f1d, type: 3}
+  effects: 06000000
+  prefab: {fileID: 919132149155446097, guid: 9a494f2bb24f2ed45a434592123c15e7, type: 3}
+  costPerLevel:
+  - x: 16
+    y: 0
+    z: 0
+    w: 0
+  - x: 16
+    y: 16
+    z: 0
+    w: 0
+  - x: 16
+    y: 16
+    z: 16
+    w: 16
+  - x: 32
+    y: 32
+    z: 32
+    w: 32
+  hideInShop: 0
+  minLevelToUnlock: 0

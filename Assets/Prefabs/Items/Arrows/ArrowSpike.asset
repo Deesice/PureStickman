@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b7f3d4543cdde446915c43a424f4614, type: 3}
+  m_Name: ArrowSpike
+  m_EditorClassIdentifier: 
+  SubType: 0
+  descCategoryName: Items
+  descEntryName: ArrowSpike
+  UnlockImage: {fileID: 21300000, guid: de7c423ea7553fa4fbc59dc90765133f, type: 3}
+  LockImage: {fileID: 21300000, guid: 8bc5f92a80d403946ae35b5dc12b70fa, type: 3}
+  effects: 04000000
+  prefab: {fileID: 3079122375776440372, guid: b3063b7fa7a99d2418c33bbbd004f368, type: 3}
+  costPerLevel:
+  - x: 40
+    y: 0
+    z: 0
+    w: 0
+  - x: 40
+    y: 40
+    z: 0
+    w: 0
+  - x: 40
+    y: 40
+    z: 40
+    w: 40
+  - x: 80
+    y: 80
+    z: 80
+    w: 80
+  hideInShop: 0
+  minLevelToUnlock: 0
